@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
   <test name="Test(failed)">
     <classes>
-      <class name="ingishts.Sanity">
+      <class name="googleinshght.GoogleInsight">
         <methods>
-          <include name="insight"/>
+          <include name="readdata"/>
         </methods>
-      </class> <!-- ingishts.Sanity -->
+      </class> <!-- googleinshght.GoogleInsight -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
